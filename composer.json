@@ -16,11 +16,5 @@
         "psr-4": {
             "Zenner\\ComposerTest\\": ""
         }
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://github.com/mzenner1/Mage_2_ZennerComposer"
-        }
-    ]
+    }
 }
